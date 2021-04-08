@@ -1,6 +1,6 @@
 # 🌮 [Techqueria](https://techqueria.org/) is a nonprofit that serves the largest community of Latinx professionals in tech.
 
-## 🤠 Austin, TX Chapter
+## 🤠 Austin Chapter
 
 As the Austin Chapter Director, my mission has been to build a community for LatinX in tech and foster partnerships with local ogranizations to connect our members to a spectrum of resources to thrive in their careeers (ie. curating recruitment events, panel talks, hosting casual happy hours 🍻, sourcing open Austin job opportunities, etc.) 
 
@@ -19,7 +19,7 @@ As the Austin Chapter Director, my mission has been to build a community for Lat
 # 🚀 Uber x Techqueria 
 
   ### About: 
-  Alongsidee Uber's erg - Los Ubers we hosted an event to talk about some of the internal and external community resources for LatinX in Tech
+  Alongside Uber's erg - Los Ubers we hosted an event to talk about some of the internal and external community resources for LatinX in Tech
    - [Presentation slides](https://docs.google.com/presentation/d/1IS8buWNGU-BeIhEkSvhiRaFnAy9rQj1lkwEsVaXRYfw/edit?usp=sharing)
 
 # 🚀 IBM x Techqueria: Imposter Syndrome & How to overcome it
@@ -29,7 +29,7 @@ As the Austin Chapter Director, my mission has been to build a community for Lat
     - [Presentation Slides](https://docs.google.com/presentation/d/1TuEC7L4KsM48NZo5PrnoTxeBOX3HiNYGNqXPExxgv3A/edit?usp=sharing)
 
    <img src="https://i.imgur.com/eQZtjLp.jpg" width="300" height="300">
-
+   
 # 🚀 Flatiron x Techqueria 
 
   ### About: What does Hispanic Heritage Month really mean?
